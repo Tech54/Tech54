@@ -4,6 +4,8 @@ B.Tech CSE (AI & ML) student at Amrapali University, Haldwani (2024–2028), bas
 
 **Looking for:** AI/ML Engineer, Machine Learning Engineer, Generative AI, or Data Science roles.
 
+**Portfolio:** [tech54.github.io](https://tech54.github.io)
+
 ## 🛠️ Skills
 
 - **Languages:** Python, JavaScript, SQL
